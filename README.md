@@ -1,5 +1,3 @@
-#Exercise 4 - RCBD'
+# Exercise 4 - RCBD
 
-
-This is the Randomized Complete Block Design analysis repo. 
-Created by Madelyn Willis
+This is the Randomized Complete Block Design analysis repo. Created by Madelyn Willis
